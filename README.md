@@ -12,3 +12,5 @@
 <a href="https://aerokube.com/selenoid/"><img src="/icons/Selenoid.png" width="50" height="50"  alt="Selenoid"/></a>
 <a href="https://github.com/allure-framework/allure2"><img src="/icons/Allure_Report.png" width="50" height="50"  alt="Allure"/></a>
 <a href="https://www.jenkins.io/"><img alt="Jenkins" height="50" src="/icons/Jenkins.png" width="50"/></a>
+
+<code><img width="5%" title="Telegram" src="images/logo/Telegram.svg"></code>
