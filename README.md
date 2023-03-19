@@ -13,5 +13,4 @@
 <code><img width="5%" title="Gradle" src="icon/logo/Gradle.svg"  /></code>
 <code><img width="5%" title="Allure TestOps" src="icon/logo/Allure_TO.svg"></code>
 <code><img width="5%" title="GitHub" src="icon/logo/GitHub.svg"></code>
-<code><img src="icon/logo/Telegram.svg" title="Telegram" width="5%"/></code>
 </p>
