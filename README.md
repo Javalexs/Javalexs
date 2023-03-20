@@ -1,6 +1,7 @@
 # <h1 align="center">  👋 Привет всем </h1>
-Меня зовут Алексей Фадеев</br> 
-Я практикую автотестирование на <b>Selenide + Java + Gradle</b> </br>
+## О себе
+:construction_worker: Меня зовут Алексей Фадеев</br>
+:technologist: Я практикую автотестирование на <b>Selenide + Java + Gradle</b> </br>
 ## :mailbox: Контакты
 <a href='https://t.me/Alixs012'><img src='https://img.shields.io/badge/Telegram-blue'/></a>
 
