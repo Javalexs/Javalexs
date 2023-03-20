@@ -1,6 +1,8 @@
 # Привет всем 👋
 Меня зовут Алексей Фадеев</br> 
 Я практикую автотестирование на <b>Selenide + Java + Gradle</b> </br>
+## Контакты
+<a href='https://t.me/alixs'><img src='https://img.shields.io/badge/Telegram-blue'/></a>
 
 ## :gear: Технологии и инструменты
 <a><img width="5%" title="IntelliJ IDEA" src="icon/logo/Idea.svg"></a>
@@ -16,5 +18,5 @@
 <img width="5%" title="Allure TestOps" src="icon/logo/Allure_TO.svg">
 
 
-## Статистика
+## Статистика работы на GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs&show_icons=true&theme=onedark)\
