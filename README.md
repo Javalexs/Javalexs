@@ -2,7 +2,7 @@
 Меня зовут Алексей Фадеев</br> 
 Я практикую автотестирование на <b>Selenide + Java + Gradle</b> </br>
 
-## Инструменты
+## :gear: Технологии и инструменты
 <a><img width="5%" title="IntelliJ IDEA" src="icon/logo/Idea.svg"></a>
 <img width="5%" title="Java" src="icon/logo/Java.svg">
 <img width="5%" title="GitHub" src="icon/logo/GitHub.svg">
