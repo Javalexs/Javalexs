@@ -18,3 +18,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs)](https://github.com/Javalexs/github-readme-stats) </br>
+## Статистика
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs&show_icons=true&theme=onedark)\
