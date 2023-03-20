@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет всем 👋
 Меня зовут Алексей Фадеев </br>
 Я практикую автотестирование на 
 <b>Selenide + Java + Gradle</b> </br>
@@ -16,3 +16,5 @@
 <img width="5%" title="Allure Report" src="icon/logo/Allure.svg">
 <img width="5%" title="Allure TestOps" src="icon/logo/Allure_TO.svg">
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs)](https://github.com/Javalexs/github-readme-stats) </br>
