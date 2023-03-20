@@ -3,7 +3,7 @@
 Я практикую автотестирование на 
 <b>Selenide + Java + Gradle</b> </br>
 
-<p  align="center">
+
 <a><img width="5%" title="IntelliJ IDEA" src="icon/logo/Idea.svg"></a>
 <img width="5%" title="Java" src="icon/logo/Java.svg">
 <img width="5%" title="GitHub" src="icon/logo/GitHub.svg">
@@ -15,6 +15,6 @@
 <img width="5%" title="RestAssured" src="icon/logo/RestAssured.svg">
 <img width="5%" title="Allure Report" src="icon/logo/Allure.svg">
 <img width="5%" title="Allure TestOps" src="icon/logo/Allure_TO.svg">
-</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs)](https://github.com/Javalexs/github-readme-stats) </br>
