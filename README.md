@@ -1,5 +1,3 @@
-## <h1 align="center">👋 Привет всем </h1>
-
 ## :technologist: О себе
 - Меня зовут Алексей Фадеев</br>
 - Я практикую автотестирование на <b>Selenide + Java + Gradle</b> </br>
@@ -19,9 +17,12 @@
 <img width="5%" title="Allure Report" src="icon/logo/Allure.svg">
 <img width="5%" title="Allure TestOps" src="icon/logo/Allure_TO.svg">
 
-## Мои проекты:
+## 💼 Мои проекты:
 ### :heavy_check_mark: UI-тесты для страницы сайта IBS.ru
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javalexs&repo=IBSProject)](https://github.com/javalexs/IBSProject)
+
+### :heavy_check_mark: API-тесты для сайта reqres.in
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javalexs&repo=QA_Project_API)](https://github.com/javalexs/QA_Project_API)
 
 ## :fire: Статистика работы на GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs&show_icons=true&theme=onedark)\
