@@ -19,6 +19,9 @@
 <img width="5%" title="Allure Report" src="icon/logo/Allure.svg">
 <img width="5%" title="Allure TestOps" src="icon/logo/Allure_TO.svg">
 
+## Мои проекты:
+### :heavy_check_mark: UI-тесты для страницы сайта IBS.ru
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javalexs&repo=IBSProject)](https://github.com/javalexs/IBSProject)
 
 ## :fire: Статистика работы на GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs&show_icons=true&theme=onedark)\
