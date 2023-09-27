@@ -18,7 +18,7 @@
 <img width="5%" title="Allure TestOps" src="icon/logo/Allure_TO.svg">
 
 ## 💼 Мои проекты:
-### :heavy_check_mark: UI-тесты для страницы сайта IBS.ru
+### :heavy_check_mark: UI-тесты для страницы сайта IBS.ru.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javalexs&repo=IBSProject)](https://github.com/javalexs/IBSProject)
 
 ### :heavy_check_mark: API-тесты для сайта reqres.in
