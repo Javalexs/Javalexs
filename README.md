@@ -1,6 +1,6 @@
 ## :technologist: О себе
 - Меня зовут Алексей Фадеев</br>
-- Я практикую автотестирование на <b>Selenide + Java + Gradle</b> </br>
+- Я практикую автотестирование на <b>Selenium + Java + Maven</b> </br>
 ## :mailbox: Контакты
 <a href='https://t.me/Alixs012'><img src='https://img.shields.io/badge/Telegram-blue'/></a>
 
