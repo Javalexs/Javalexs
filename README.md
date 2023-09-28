@@ -2,7 +2,7 @@
 - Меня зовут Алексей Фадеев</br>
 - Практикую автотестирование на <b>Selenium + Java + Maven</b> </br>
 ## :mailbox: Контакты
-<a href='https://t.me/Alixs012'><img src='https://img.shields.io/badge/Telegram-blue'/></a>
+<a href='https://t.me/Axsell87'><img src='https://img.shields.io/badge/Telegram-blue'/></a>
 
 ## :hammer_and_wrench: Технологии и инструменты
 <a><img width="5%" title="IntelliJ IDEA" src="icon/logo/Idea.svg"></a>
