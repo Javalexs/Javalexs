@@ -8,7 +8,7 @@
 <a><img width="5%" title="IntelliJ IDEA" src="icon/logo/Idea.svg"></a>
 <img width="5%" title="Java" src="icon/logo/Java.svg">
 <img width="5%" title="GitHub" src="icon/logo/GitHub.svg">
-<img width="4%" title="Selenium" src="icon/logo/Selenium.svg">
+<img width="5%" title="Selenium" src="icon/logo/Selenium.svg">
 <img width="5%" title="Selenoid" src="icon/logo/Selenoid.svg">
 <img width="5%" title="Selenide" src="icon/logo/Selenide.svg">
 <img width="5%" title="Junit5" src="icon/logo/Junit5.svg">
