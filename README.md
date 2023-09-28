@@ -26,4 +26,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javalexs&repo=QA_Project_API)](https://github.com/javalexs/QA_Project_API)
 
 ## :fire: Статистика работы на GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs&show_icons=true&theme=onedark)\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javalexs&show_icons=true&theme=onedark)
