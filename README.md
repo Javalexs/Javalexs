@@ -5,7 +5,7 @@
 <a href='https://t.me/Axsell87'><img src='https://img.shields.io/badge/Telegram-blue'/></a>
 
 ## :hammer_and_wrench: Технологии и инструменты
-<img width="5%" title="Selenium" src="icon/logo/Selenium.svg">
+<a><img width="5%" title="Selenium" src="icon/logo/Selenium.svg"></a>
 <img width="5%" title="Selenoid" src="icon/logo/Selenoid.svg">
 <img width="5%" title="Selenide" src="icon/logo/Selenide.svg">
 <img width="5%" title="IntelliJ IDEA" src="icon/logo/Idea.svg">
