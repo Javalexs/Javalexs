@@ -1,6 +1,6 @@
 ## :technologist: О себе
 - Меня зовут Алексей Фадеев</br>
-- Я практикую автотестирование на <b>Selenium + Java + Maven</b> </br>
+- Практикую автотестирование на <b>Selenium + Java + Maven</b> </br>
 ## :mailbox: Контакты
 <a href='https://t.me/Alixs012'><img src='https://img.shields.io/badge/Telegram-blue'/></a>
 
@@ -9,6 +9,8 @@
 <img width="5%" title="Java" src="icon/logo/Java.svg">
 <img width="5%" title="GitHub" src="icon/logo/GitHub.svg">
 <img width="5%" title="Selenoid" src="icon/logo/Selenoid.svg">
+<img width="5%" title="Selenium" src="icon/logo/Selenoid.svg">
+<img width="5%" title="Maven" src="icon/logo/Selenoid.svg">
 <img width="5%" title="Selenide" src="icon/logo/Selenide.svg">
 <img width="5%" title="Junit5" src="icon/logo/Junit5.svg">
 <img width="5%" title="Gradle" src="icon/logo/Gradle.svg">
